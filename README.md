@@ -22,6 +22,8 @@ Handle following cases and show appropriate error messages depending on the cont
 -   If the user is not connected to the network.
 -   If API request fails and throws an error message.
 -   If server timeout error occurs.
+-   If resume connectivity.
+
 
 ## Location Services
 
