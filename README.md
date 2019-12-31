@@ -38,6 +38,15 @@ Please handle following cases in location services.
 -   Location services disabled for this App
 -   background location services, if applicable
 
+## Camera 
+Please handle following cases in camera services.
+
+-   Photo taken with primary camera 
+-   Video capture with primary camera 
+-   Photo taken with user-facing camera 
+-   Video capture with user-facing camera 
+-   Video recording paused on received on call
+
 ## Video/Audio
 
 -   Should stop on receiving a call
