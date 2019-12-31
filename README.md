@@ -60,6 +60,7 @@ Please handle following cases in camera services.
 -   Return User
 -   Forgot Password
 -   Terms of services and privay policy
+-   Deep Links
 
 ## Settings
 
