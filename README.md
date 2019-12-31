@@ -5,6 +5,7 @@
 
 -   Text Fields are not hidden by keyboard on all screen sizes.
 -   Text Selection (including disabled when appropriate)
+-   Copy/Pase
 -   Enable/Disable Dictionary when appropriate
 -   Return key name (Done/Next/Go) should match the context
 -   Show Default keyboard type when appropriate
