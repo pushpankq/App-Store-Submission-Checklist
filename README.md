@@ -197,5 +197,5 @@ Consider the following kinds of items as well.
 -   Custom widgets display proper content, are formatted correctly, and function as intended (if applicable)
 
 Reference 
--   [https://quip.com/FtjnAWlMMnJS](https://quip.com/FtjnAWlMMnJS)
+-   [The Savvy App Store Submission](https://quip.com/FtjnAWlMMnJS)
 -   [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
