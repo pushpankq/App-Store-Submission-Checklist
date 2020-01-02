@@ -1,6 +1,18 @@
 
 # App Store Submission Checklist
 
+## Basics 
+   To help your app approval go as smoothly as possible, review the common missteps listed below that can slow down the review process or trigger a rejection.
+   This doesn’t replace the guidelines or guarantee approval, but making sure you can check every item on the list is a good start. If your app no longer functions as intended or you’re no longer actively supporting it, it will be removed from the App Store. 
+   Make sure you:
+
+-   Test your app for crashes and bugs
+-   Ensure that all app information and metadata is complete and accurate
+-   Update your contact information in case App Review needs to reach you
+-   Provide an active demo account and login information, plus any other hardware or resources that might be needed to review your app (e.g. login credentials or a sample QR code)
+-   Enable backend services so that they’re live and accessible during review
+-   Include detailed explanations of non-obvious features and in-app purchases in the App Review notes, including supporting documentation where appropriate.
+
 ## User/Text Inputs
 
 -   Text Fields are not hidden by keyboard on all screen sizes.
@@ -184,4 +196,6 @@ Consider the following kinds of items as well.
     
 -   Custom widgets display proper content, are formatted correctly, and function as intended (if applicable)
 
-Reference [https://quip.com/FtjnAWlMMnJS](https://quip.com/FtjnAWlMMnJS)
+Reference 
+-   [https://quip.com/FtjnAWlMMnJS](https://quip.com/FtjnAWlMMnJS)
+-   [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
