@@ -13,6 +13,10 @@
 -   Enable backend services so that they’re live and accessible during review
 -   Include detailed explanations of non-obvious features and in-app purchases in the App Review notes, including supporting documentation where appropriate.
 
+## Apple Pay Identity Guidelines
+Folow the below url 
+https://developer.apple.com/apple-pay/marketing/
+
 ## User/Text Inputs
 
 -   Text Fields are not hidden by keyboard on all screen sizes.
