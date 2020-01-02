@@ -75,7 +75,8 @@ Please handle following cases in camera services.
 
 -   Double height status bar
 -   Orientation change if applicable
--   Orientation Lock
+-   Orientation change if applicable
+-   Upside-down Orientation
 -   Tested on 3.5-inch device (e.g., iPhone 4s)
 -   Tested on 4-inch device (e.g., iPhone 5)
 -   Tested on 4.7-inch device (e.g., iPhone 6s)
