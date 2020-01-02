@@ -98,7 +98,7 @@ Please handle following cases in camera services.
 -   Permission requests are timed right and provide context
 -   verify app meets  [human interface standards](https://developer.apple.com/ios/human-interface-guidelines/interaction/3d-touch/)  if using 3D touch
 
-##App Store Listing
+## App Store Listing
 
 ### iTunes Connect App Information
 
