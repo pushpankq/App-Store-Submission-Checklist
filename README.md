@@ -14,7 +14,8 @@
 -   Include detailed explanations of non-obvious features and in-app purchases in the App Review notes, including supporting documentation where appropriate.
 
 ## Apple Pay Identity Guidelines
-Folow the below url 
+Follow the below url 
+
 https://developer.apple.com/apple-pay/marketing/
 
 ## User/Text Inputs
